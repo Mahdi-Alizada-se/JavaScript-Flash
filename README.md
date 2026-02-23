@@ -7,12 +7,9 @@ Small, static project for practicing DOM and JSON with a VR headset gallery.
 - Open `index.html` in your browser.
 - Or serve locally (recommended for JSON):
 
-```bash
-# from project root
-You can see the Project [here](https://mahdi-alizada-se.github.io/JavaScript-Flash/)
+# demo
 
-# then open http://localhost:8000
-```
+You can see the Project [here](https://mahdi-alizada-se.github.io/JavaScript-Flash/)
 
 ## Files
 
